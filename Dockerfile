@@ -1,4 +1,4 @@
-FROM tomcat:8.0-jre8
+FROM tomcat:8.5.91-jre8
 MAINTAINER Hdiv Security
 
 # Copy the application to tomcat
