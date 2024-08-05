@@ -10,7 +10,71 @@
           "informationUri": "https://example.com"
         }
       },
-      "results": []
+      "results": [
+        {
+          "ruleId": "Apache-2.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Apache License 2.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/src_ReactorBDIODocument.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 1,
+                  "endLine": 58
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "Apache-2.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Apache License 2.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/src_ReactorBDIODocument.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 1,
+                  "endLine": 58
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "Apache-2.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Apache License 2.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/src_ReactorBDIODocument.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 1,
+                  "endLine": 58
+                }
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }
