@@ -1,0 +1,853 @@
+{
+  "snippetMatches": {
+    "UNKNOWN": [
+      {
+        "projectName": "jdf-stack",
+        "releaseVersion": "7.0.0.Beta",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/jboss-eap-quickstarts-4446232292d75344d50b5e64bd62cdc6b77f3971/spring-kitchensink-springmvctest/src/test/java/org/jboss/as/quickstarts/kitchensink/spring/springmvctest/test/MemberMockMVCTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            21
+          ],
+          "matchedEndLines": [
+            44
+          ]
+        }
+      },
+      {
+        "projectName": "roghughe/captaindebug",
+        "releaseVersion": "20140830-snapshot-d8fd2ff5",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/captaindebug-d8fd2ff5284f5571fd3f7b897ed5cb631f787685/ajax-json/src/test/java/com/captaindebug/store/controllers/mockmvc/OrderControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            3
+          ],
+          "matchedEndLines": [
+            24
+          ]
+        }
+      },
+      {
+        "projectName": "Chambua",
+        "releaseVersion": "master-20131002",
+        "licenseDefinition": {
+          "name": "GNU Affero General Public License v3.0",
+          "spdxId": "AGPL-3.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Affero General Public License v3.0"
+        },
+        "matchedFilePath": "/ushahidi-Chambua-d0295b8/src/test/java/com/ushahidi/chambua/web/controller/TagsControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            21
+          ],
+          "matchedEndLines": [
+            45
+          ]
+        }
+      },
+      {
+        "projectName": "Hygieia/Hygieia",
+        "releaseVersion": "v3.0.0",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/Hygieia-ec0cef683811c9fae85cbdf2434044e43f7d4307/api/src/test/java/com/capitalone/dashboard/rest/UserInfoControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            20
+          ],
+          "matchedStartLines": [
+            7
+          ],
+          "matchedEndLines": [
+            22
+          ]
+        }
+      },
+      {
+        "projectName": "spring-framework-issues",
+        "releaseVersion": "20170719-snapshot-58373764",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/spring-framework-issues-58373764c89326359bf0a9a8584e1d306973f301/SPR-9964/src/test/java/org/springframework/issues/test2/Test2ControllerTests.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            3
+          ],
+          "matchedEndLines": [
+            20
+          ]
+        }
+      },
+      {
+        "projectName": "OPUS-College",
+        "releaseVersion": "20170308-snapshot-a0bb2480",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/college/src/test/java/org/uci/opus/college/web/flow/StudentPersonalEditControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            3
+          ],
+          "matchedEndLines": [
+            24
+          ]
+        }
+      }
+    ],
+    "RECIPROCAL": [
+      {
+        "projectName": "naver/pinpoint",
+        "releaseVersion": "1.5.0",
+        "licenseDefinition": {
+          "licenseDisplayName": "(libxml2 License AND GNU General Public License v2.0 or later AND Apache License 2.0 AND MIT License AND Creative Commons Public Domain Dedication and Certification AND Public Domain)"
+        },
+        "matchedFilePath": "/pinpoint-53f3a1d82a7dc774b3e85798074a6dee3b778053/web/src/test/java/com/navercorp/pinpoint/web/controller/AlarmControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            20
+          ],
+          "matchedEndLines": [
+            54
+          ]
+        }
+      },
+      {
+        "projectName": "naver/pinpoint",
+        "releaseVersion": "1.6.0-RC1",
+        "licenseDefinition": {
+          "licenseDisplayName": "(libxml2 License AND GNU General Public License v2.0 or later AND Apache License 2.0 AND MIT License AND Creative Commons Public Domain Dedication and Certification AND Public Domain)"
+        },
+        "matchedFilePath": "/pinpoint-e180edf8705599575563056fa677e5f5a58719af/web/src/test/java/com/navercorp/pinpoint/web/controller/UserControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            20
+          ],
+          "matchedEndLines": [
+            48
+          ]
+        }
+      },
+      {
+        "projectName": "naver/pinpoint",
+        "releaseVersion": "1.5.2",
+        "licenseDefinition": {
+          "licenseDisplayName": "(libxml2 License AND GNU General Public License v2.0 or later AND Apache License 2.0 AND MIT License AND Creative Commons Public Domain Dedication and Certification AND Public Domain)"
+        },
+        "matchedFilePath": "/pinpoint-4648b0930a1880efa3499ef1668f8da21ecf79b4/web/src/test/java/com/navercorp/pinpoint/web/controller/ConfigControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            19
+          ],
+          "matchedEndLines": [
+            49
+          ]
+        }
+      },
+      {
+        "projectName": "MeV",
+        "releaseVersion": "v0.0.1",
+        "licenseDefinition": {
+          "name": "GNU General Public License v3.0 only",
+          "spdxId": "GPL-3.0-only",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v3.0 only"
+        },
+        "matchedFilePath": "/mev-0903ddc6ed501249e010b7d12731beab19b06521/web/src/test/java/edu/dfci/cccb/mev/web/test/annotation/domain/probe/configuration/TestAnnotationServerConfiguration.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            4
+          ],
+          "matchedEndLines": [
+            37
+          ]
+        }
+      },
+      {
+        "projectName": "MeV",
+        "releaseVersion": "v0.0.2",
+        "licenseDefinition": {
+          "name": "GNU General Public License v3.0 only",
+          "spdxId": "GPL-3.0-only",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v3.0 only"
+        },
+        "matchedFilePath": "/mev-2ccf21577976a78b48aab45192291fe6860ccc8e/web/src/test/java/edu/dfci/cccb/mev/web/test/annotation/domain/probe/configuration/TestAnnotationServerConfiguration.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            4
+          ],
+          "matchedEndLines": [
+            36
+          ]
+        }
+      },
+      {
+        "projectName": "naver/pinpoint",
+        "releaseVersion": "1.6.1-RC1",
+        "licenseDefinition": {
+          "licenseDisplayName": "(libxml2 License AND GNU General Public License v2.0 or later AND Apache License 2.0 AND MIT License AND Creative Commons Public Domain Dedication and Certification AND Public Domain)"
+        },
+        "matchedFilePath": "/pinpoint-ec5ac8936a86c6a78058ea61e17c72b149417e85/web/src/test/java/com/navercorp/pinpoint/web/controller/UserGroupControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            20
+          ],
+          "matchedStartLines": [
+            20
+          ],
+          "matchedEndLines": [
+            44
+          ]
+        }
+      },
+      {
+        "projectName": "OpenESPI-ThirdParty-java",
+        "releaseVersion": "tesla_rc3c",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Common Public License 1.0 AND GNU General Public License v2.0 or later AND Apache License 2.0 AND W3C Software Notice and License (2002-12-31) AND Mozilla Public License 2.0 AND GNU Lesser General Public License v2.1 or later AND Eclipse Public License 1.0)"
+        },
+        "matchedFilePath": "/OpenESPI-ThirdParty-java-tesla_rc3c/src/test/java/org/energyos/espi/thirdparty/integration/MeterReadingTests.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            19
+          ],
+          "matchedEndLines": [
+            41
+          ]
+        }
+      }
+    ],
+    "WEAK_RECIPROCAL": [
+      {
+        "projectName": "GeoWebCache",
+        "releaseVersion": "1.15.2",
+        "licenseDefinition": {
+          "name": "GNU Lesser General Public License v3.0 or later",
+          "spdxId": "LGPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Lesser General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/geowebcache-3d58228ff79d94eab593b47f48b759bac111ff68/geowebcache/rest/src/test/java/org/geowebcache/rest/controller/SeedControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            21
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            32
+          ]
+        }
+      },
+      {
+        "projectName": "GeoWebCache",
+        "releaseVersion": "1.14.5",
+        "licenseDefinition": {
+          "name": "GNU Lesser General Public License v3.0 or later",
+          "spdxId": "LGPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Lesser General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/geowebcache-efba7362c92fddf5361c4382839ca773d648ca33/geowebcache/rest/src/test/java/org/geowebcache/rest/controller/GridSetControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            21
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            31
+          ]
+        }
+      },
+      {
+        "projectName": "jnshwu/spring-boot",
+        "releaseVersion": "v0.5.0.M6",
+        "licenseDefinition": {
+          "name": "Eclipse Public License 1.0",
+          "spdxId": "EPL-1.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Eclipse Public License 1.0"
+        },
+        "matchedFilePath": "/spring-boot-d02a71a8fc3a1403450ab365c118299132672671/spring-boot-samples/spring-boot-sample-web-ui/src/test/java/org/springframework/boot/sample/ui/MessageControllerWebTests.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            4
+          ],
+          "matchedEndLines": [
+            31
+          ]
+        }
+      },
+      {
+        "projectName": "GeoWebCache",
+        "releaseVersion": "1.21-RC",
+        "licenseDefinition": {
+          "name": "GNU Lesser General Public License v3.0 or later",
+          "spdxId": "LGPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Lesser General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/geowebcache-b7cd74a657441517a4f62016968464cd39488c88/geowebcache/rest/src/test/java/org/geowebcache/rest/controller/SeedControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            21
+          ],
+          "matchedStartLines": [
+            23
+          ],
+          "matchedEndLines": [
+            43
+          ]
+        }
+      },
+      {
+        "projectName": "jnshwu/spring-boot",
+        "releaseVersion": "v0.5.0.M5",
+        "licenseDefinition": {
+          "name": "Eclipse Public License 1.0",
+          "spdxId": "EPL-1.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Eclipse Public License 1.0"
+        },
+        "matchedFilePath": "/spring-boot-2c1ae04e6b55be5717e22b004fd498b3c992341a/spring-boot-samples/spring-boot-sample-data-jpa/src/test/java/org/springframework/boot/sample/data/jpa/SampleDataJpaApplicationTests.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            21
+          ],
+          "matchedStartLines": [
+            3
+          ],
+          "matchedEndLines": [
+            18
+          ]
+        }
+      },
+      {
+        "projectName": "GeoWebCache",
+        "releaseVersion": "1.23.0",
+        "licenseDefinition": {
+          "name": "GNU Lesser General Public License v3.0 or later",
+          "spdxId": "LGPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Lesser General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/geowebcache-437ba9ba8468c6431945e3e988a330eb35012bee/geowebcache/rest/src/test/java/org/geowebcache/rest/controller/SeedControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            21
+          ],
+          "matchedStartLines": [
+            25
+          ],
+          "matchedEndLines": [
+            48
+          ]
+        }
+      }
+    ],
+    "PERMISSIVE": [
+      {
+        "projectName": "Spring Boot",
+        "releaseVersion": "v0.5.0.M6",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/spring-boot-0.5.0.M6/spring-boot-samples/spring-boot-sample-web-ui/src/test/java/org/springframework/boot/sample/ui/MessageControllerWebTests.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            4
+          ],
+          "matchedEndLines": [
+            31
+          ]
+        }
+      },
+      {
+        "projectName": "Spring Boot",
+        "releaseVersion": "v0.5.0.M5",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/spring-boot-3b71fd83a8788fd2164fc4d1dbead1be9efbade0/spring-boot-samples/spring-boot-sample-data-jpa/src/test/java/org/springframework/boot/sample/data/jpa/SampleDataJpaApplicationTests.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            21
+          ],
+          "matchedStartLines": [
+            3
+          ],
+          "matchedEndLines": [
+            18
+          ]
+        }
+      },
+      {
+        "projectName": "Spring Framework",
+        "releaseVersion": "3.2.0.RC1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/spring-framework-3.2.0.RC1/spring-test-mvc/src/test/java/org/springframework/test/web/servlet/samples/context/JavaConfigTests.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            21
+          ],
+          "matchedStartLines": [
+            19
+          ],
+          "matchedEndLines": [
+            35
+          ]
+        }
+      },
+      {
+        "projectName": "Spring Framework",
+        "releaseVersion": "3.2.0.RC2",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/spring-framework-3.2.0.RC2/spring-test-mvc/src/test/java/org/springframework/test/web/servlet/samples/context/JavaConfigTests.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            21
+          ],
+          "matchedStartLines": [
+            19
+          ],
+          "matchedEndLines": [
+            35
+          ]
+        }
+      },
+      {
+        "projectName": "eugenp/tutorials",
+        "releaseVersion": "20171210-snapshot-2b67e245",
+        "licenseDefinition": {
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "MIT License"
+        },
+        "matchedFilePath": "/tutorials-2b67e2451587c868b91ffc3eb96dc43f54b8d87c/spring-security-mvc-custom/src/test/java/org/baeldung/web/interceptor/UserInterceptorIntegrationTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            3
+          ],
+          "matchedEndLines": [
+            22
+          ]
+        }
+      },
+      {
+        "projectName": "fastjson-alibaba",
+        "releaseVersion": "1.2.10",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/fastjson-7524d7fa43cc5e43d466c9d2e2f5e13b479817a2/src/test/java/com/alibaba/json/bvt/support/spring/mock/testcase/FastJsonJsonViewTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            10
+          ],
+          "matchedEndLines": [
+            37
+          ]
+        }
+      },
+      {
+        "projectName": "fastjson-alibaba",
+        "releaseVersion": "1.2.12",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/fastjson-d6501aec0546905e1ebc465a6b5eebf3c826aecb/src/test/java/com/alibaba/json/bvt/support/spring/mock/testcase/FastJsonHttpMessageConverter4Test.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            10
+          ],
+          "matchedEndLines": [
+            36
+          ]
+        }
+      },
+      {
+        "projectName": "eugenp/tutorials",
+        "releaseVersion": "20180721-snapshot-ecb14dd8",
+        "licenseDefinition": {
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "MIT License"
+        },
+        "matchedFilePath": "/tutorials-ecb14dd83486138717305d5d2b04732ae79bb959/spring-thymeleaf/src/test/java/com/baeldung/thymeleaf/controller/ExpressionUtilityObjectsControllerIntegrationTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            5
+          ],
+          "matchedEndLines": [
+            30
+          ]
+        }
+      },
+      {
+        "projectName": "Spring Security",
+        "releaseVersion": "4.0.0.M2",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/spring-security-4.0.0.M2/test/src/test/java/org/springframework/security/test/web/servlet/showcase/secured/SecurityRequestsTests.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            21
+          ],
+          "matchedStartLines": [
+            21
+          ],
+          "matchedEndLines": [
+            43
+          ]
+        }
+      },
+      {
+        "projectName": "Spring Security",
+        "releaseVersion": "4.0.0.RC1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/spring-security-4.0.0.RC1/test/src/test/java/org/springframework/security/test/web/servlet/showcase/secured/SecurityRequestsTests.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            21
+          ],
+          "matchedStartLines": [
+            21
+          ],
+          "matchedEndLines": [
+            43
+          ]
+        }
+      },
+      {
+        "projectName": "Thymeleaf",
+        "releaseVersion": "thymeleafexamples-petclinic-20130317",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/thymeleafexamples-petclinic-7683632008afdaadac164ebce77bada8906fd123/src/test/java/org/springframework/samples/petclinic/web/VisitsViewTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            20
+          ],
+          "matchedEndLines": [
+            46
+          ]
+        }
+      },
+      {
+        "projectName": "eugenp/tutorials",
+        "releaseVersion": "20180822-snapshot-387f9e7e",
+        "licenseDefinition": {
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "MIT License"
+        },
+        "matchedFilePath": "/tutorials-387f9e7e526c46097d7216127d3f12cf0ae7a138/spring-thymeleaf/src/test/java/com/baeldung/thymeleaf/controller/FragmentsIntegrationTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            26
+          ],
+          "matchedStartLines": [
+            5
+          ],
+          "matchedEndLines": [
+            31
+          ]
+        }
+      },
+      {
+        "projectName": "Spring Security",
+        "releaseVersion": "4.0.0",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/spring-security-8f9065b3f6b48b9157b43b9e35153680d1bb68d7/test/src/test/java/org/springframework/security/test/web/servlet/showcase/secured/SecurityRequestsTests.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            21
+          ],
+          "matchedStartLines": [
+            21
+          ],
+          "matchedEndLines": [
+            43
+          ]
+        }
+      },
+      {
+        "projectName": "Spring Security",
+        "releaseVersion": "4.0.0.RC2",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/spring-security-bbce00b4a66193891700c57922d253190844e76d/config/src/test/java/org/springframework/security/config/annotation/web/configuration/WebMvcSecurityConfigurationTests.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            21
+          ],
+          "matchedStartLines": [
+            18
+          ],
+          "matchedEndLines": [
+            46
+          ]
+        }
+      },
+      {
+        "projectName": "fastjson-alibaba",
+        "releaseVersion": "1.2.18",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/fastjson-9e254c90458c6c9707d3fa657a79eeaaf4502719/src/test/java/com/alibaba/json/bvt/support/spring/mock/testcase/FastJsonpHttpMessageConverter4Case2Test.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            21
+          ],
+          "matchedStartLines": [
+            3
+          ],
+          "matchedEndLines": [
+            26
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "href": "https://testing.blackduck.synopsys.com/api/snippet-matching",
+    "links": [
+      {
+        "rel": "licenses-description",
+        "href": "https://www.synopsys.com/glossary/what-are-open-source-licenses.html"
+      }
+    ]
+  }
+}
