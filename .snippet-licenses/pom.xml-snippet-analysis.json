@@ -1,0 +1,63 @@
+{
+  "snippetMatches": {
+    "UNKNOWN": [
+      {
+        "projectName": "eclipse-m2e/m2e-wtp",
+        "releaseVersion": "1.5.1",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/m2e-wtp-2ad9632b1c25a01e23afc9787ed1f46da1cb42f4/org.eclipse.m2e.wtp.tests/src/org/eclipse/m2e/wtp/tests/DummyWarProjectTest.java",
+        "regions": {
+          "sourceStartLines": [
+            1
+          ],
+          "sourceEndLines": [
+            28
+          ],
+          "matchedStartLines": [
+            42
+          ],
+          "matchedEndLines": [
+            60
+          ]
+        }
+      },
+      {
+        "projectName": "eclipse-m2e/m2e-wtp",
+        "releaseVersion": "1.5.2",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/m2e-wtp-e1309e76cc4b433a7dd9f87edca2bacc48f24978/org.eclipse.m2e.wtp.tests/src/org/eclipse/m2e/wtp/tests/DummyWarProjectTest.java",
+        "regions": {
+          "sourceStartLines": [
+            1
+          ],
+          "sourceEndLines": [
+            28
+          ],
+          "matchedStartLines": [
+            42
+          ],
+          "matchedEndLines": [
+            60
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "href": "https://testing.blackduck.synopsys.com/api/snippet-matching",
+    "links": [
+      {
+        "rel": "licenses-description",
+        "href": "https://www.synopsys.com/glossary/what-are-open-source-licenses.html"
+      }
+    ]
+  }
+}
