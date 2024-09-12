@@ -1,0 +1,920 @@
+{
+  "snippetMatches": {
+    "RECIPROCAL_AGPL": [
+      {
+        "projectName": "Servlet",
+        "releaseVersion": "3.24.0",
+        "licenseDefinition": {
+          "name": "GNU Affero General Public License v3.0",
+          "spdxId": "AGPL-3.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Affero General Public License v3.0"
+        },
+        "matchedFilePath": "/net/officefloor/servlet/tomcat/OfficeFloorInstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            25
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            75
+          ],
+          "matchedEndLines": [
+            95
+          ]
+        }
+      },
+      {
+        "projectName": "Servlet",
+        "releaseVersion": "3.22.0",
+        "licenseDefinition": {
+          "name": "GNU Affero General Public License v3.0",
+          "spdxId": "AGPL-3.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Affero General Public License v3.0"
+        },
+        "matchedFilePath": "/net/officefloor/servlet/tomcat/OfficeFloorInstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            25
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            75
+          ],
+          "matchedEndLines": [
+            95
+          ]
+        }
+      }
+    ],
+    "RECIPROCAL": [
+      {
+        "projectName": "JBoss Web",
+        "releaseVersion": "JBOSSWEB_7_5_30_FINAL",
+        "licenseDefinition": {
+          "licenseDisplayName": "(GNU General Public License v2.0 or later AND GNU Lesser General Public License v3.0 or later AND GNU General Public License v3.0 or later)"
+        },
+        "matchedFilePath": "/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            21
+          ],
+          "matchedEndLines": [
+            48
+          ]
+        }
+      },
+      {
+        "projectName": "Stanford Parser",
+        "releaseVersion": "3.9.2",
+        "licenseDefinition": {
+          "name": "GNU General Public License v2.0 or later",
+          "spdxId": "GPL-2.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v2.0 or later"
+        },
+        "matchedFilePath": "CoreNLP-aa32564f629e85ade8fdd6cb5458149c1aba4266/libsrc/tomcat/apache-tomcat-7.0.12-src.zip!/#/apache-tomcat-7.0.12-src/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            40
+          ]
+        }
+      },
+      {
+        "projectName": "mod_cluster",
+        "releaseVersion": "1.3.0.Alpha1",
+        "licenseDefinition": {
+          "licenseDisplayName": "(GNU General Public License v2.0 or later AND GNU Lesser General Public License v3.0 or later AND GNU General Public License v3.0 or later)"
+        },
+        "matchedFilePath": "/mod_cluster-1.3.0.Alpha1/test/java/src/main/java/org/jboss/mod_cluster/JBossWeb.java",
+        "regions": {
+          "sourceStartLines": [
+            25
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            399
+          ],
+          "matchedEndLines": [
+            419
+          ]
+        }
+      },
+      {
+        "projectName": "chenhaoxiang/Java",
+        "releaseVersion": "20180206-snapshot-d5f1aded",
+        "licenseDefinition": {
+          "licenseDisplayName": "(GNU General Public License v2.0 only AND Apache License 2.0)"
+        },
+        "matchedFilePath": "Java-d5f1adedae6ae2c6db1eac13f078ff0f20acdc73/Tomcat7.0/apache-tomcat-7.0.57-src-x64.zip!/#/apache-tomcat-7.0.57-src/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            41
+          ]
+        }
+      },
+      {
+        "projectName": "find-sec-bugs",
+        "releaseVersion": "version-1.8.0",
+        "licenseDefinition": {
+          "licenseDisplayName": "(GNU General Public License v2.0 or later AND GNU Lesser General Public License v3.0 or later AND GNU Lesser General Public License v2.1 or later AND GNU General Public License v3.0 or later)"
+        },
+        "matchedFilePath": "/find-sec-bugs-033d1897564385cd48d1ec04343f5ee86dba6166/plugin-deps/src/main/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            1
+          ],
+          "matchedEndLines": [
+            26
+          ]
+        }
+      },
+      {
+        "projectName": "mod_cluster",
+        "releaseVersion": "1.2.1.Beta1",
+        "licenseDefinition": {
+          "licenseDisplayName": "(GNU General Public License v2.0 or later AND GNU Lesser General Public License v3.0 or later AND GNU General Public License v3.0 or later)"
+        },
+        "matchedFilePath": "/mod_cluster-d58023c08288e59937d471353a6be8f52fba8841/test/java/src/main/java/org/jboss/mod_cluster/JBossWeb.java",
+        "regions": {
+          "sourceStartLines": [
+            25
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            313
+          ],
+          "matchedEndLines": [
+            333
+          ]
+        }
+      }
+    ],
+    "WEAK_RECIPROCAL": [
+      {
+        "projectName": "Debian",
+        "releaseVersion": "upstream/7.0.21",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Common Development and Distribution License 1.0 AND Common Public License 1.0 AND libpng License AND zlib License AND Apache License 2.0 AND Bzip2 License AND Eclipse Public License 1.0)"
+        },
+        "matchedFilePath": "/tomcat8-ff9285fbed8f14ba5d1cf0582c8d85ab15c42c87/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            40
+          ]
+        }
+      },
+      {
+        "projectName": "Debian",
+        "releaseVersion": "debian/7.0.14-1",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Common Development and Distribution License 1.0 AND Common Public License 1.0 AND libpng License AND zlib License AND Apache License 2.0 AND Bzip2 License AND Eclipse Public License 1.0)"
+        },
+        "matchedFilePath": "/tomcat8-c76c31c01c24327ce4957f756da3bedb78b5c501/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            40
+          ]
+        }
+      },
+      {
+        "projectName": "Debian",
+        "releaseVersion": "upstream/7.0.23",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Common Development and Distribution License 1.0 AND Common Public License 1.0 AND libpng License AND zlib License AND Apache License 2.0 AND Bzip2 License AND Eclipse Public License 1.0)"
+        },
+        "matchedFilePath": "/tomcat8-9ae905a7d3a805b925947b12b8e5450818d45125/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            40
+          ]
+        }
+      },
+      {
+        "projectName": "Debian",
+        "releaseVersion": "8.0.0-rc1",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Common Development and Distribution License 1.0 AND Common Public License 1.0 AND libpng License AND zlib License AND Apache License 2.0 AND Bzip2 License AND Eclipse Public License 1.0)"
+        },
+        "matchedFilePath": "/tomcat8-7d12c66cacda153c74e266d2608f8d2f20ba2217/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            44
+          ]
+        }
+      },
+      {
+        "projectName": "Debian",
+        "releaseVersion": "upstream/7.0.45",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Common Development and Distribution License 1.0 AND Common Public License 1.0 AND libpng License AND zlib License AND Apache License 2.0 AND Bzip2 License AND Eclipse Public License 1.0)"
+        },
+        "matchedFilePath": "/tomcat7-1326f29a17cf5f0f5feca28f97f6488051506afb/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            44
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "8.0.0-RC2",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Common Development and Distribution License 1.0 AND Common Public License 1.0 AND libpng License AND zlib License AND Apache License 2.0 AND Bzip2 License AND Eclipse Public License 1.0)"
+        },
+        "matchedFilePath": "/tomcat-TOMCAT_8_0_0_RC2/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            44
+          ]
+        }
+      },
+      {
+        "projectName": "Debian",
+        "releaseVersion": "8.0.3",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Common Development and Distribution License 1.0 AND Common Public License 1.0 AND libpng License AND zlib License AND Apache License 2.0 AND Bzip2 License AND Eclipse Public License 1.0)"
+        },
+        "matchedFilePath": "/tomcat8-25d52ee57f138a6ae628a23d98329f619911ab0c/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            41
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "8.0.0",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Common Development and Distribution License 1.0 AND Common Public License 1.0 AND libpng License AND zlib License AND Apache License 2.0 AND Bzip2 License AND Eclipse Public License 1.0)"
+        },
+        "matchedFilePath": "/tomcat-TOMCAT_8_0_0/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            41
+          ]
+        }
+      },
+      {
+        "projectName": "Debian",
+        "releaseVersion": "upstream/8.0.9",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Common Development and Distribution License 1.0 AND Common Public License 1.0 AND libpng License AND zlib License AND Apache License 2.0 AND Bzip2 License AND Eclipse Public License 1.0)"
+        },
+        "matchedFilePath": "/tomcat8-e5dd17327f83461a1c45b7c961ff98fc36d6345d/java/org/apache/catalina/core/DefaultInstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            25
+          ],
+          "sourceEndLines": [
+            39
+          ],
+          "matchedStartLines": [
+            141
+          ],
+          "matchedEndLines": [
+            170
+          ]
+        }
+      },
+      {
+        "projectName": "Debian",
+        "releaseVersion": "8.0.0-rc3",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Common Development and Distribution License 1.0 AND Common Public License 1.0 AND libpng License AND zlib License AND Apache License 2.0 AND Bzip2 License AND Eclipse Public License 1.0)"
+        },
+        "matchedFilePath": "/tomcat8-01e8f38447fcc9acda595602d7ad088811ba13cc/java/org/apache/catalina/core/DefaultInstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            25
+          ],
+          "sourceEndLines": [
+            39
+          ],
+          "matchedStartLines": [
+            144
+          ],
+          "matchedEndLines": [
+            173
+          ]
+        }
+      },
+      {
+        "projectName": "Debian",
+        "releaseVersion": "upstream/7.0.52",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Common Development and Distribution License 1.0 AND Common Public License 1.0 AND libpng License AND zlib License AND Apache License 2.0 AND Bzip2 License AND Eclipse Public License 1.0)"
+        },
+        "matchedFilePath": "/tomcat7-9029a694298311d4c5d25ddc751591d0f2315a92/java/org/apache/catalina/core/DefaultInstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            25
+          ],
+          "sourceEndLines": [
+            39
+          ],
+          "matchedStartLines": [
+            133
+          ],
+          "matchedEndLines": [
+            155
+          ]
+        }
+      },
+      {
+        "projectName": "Debian",
+        "releaseVersion": "upstream/7.0.55",
+        "licenseDefinition": {
+          "licenseDisplayName": "(Common Development and Distribution License 1.0 AND Common Public License 1.0 AND libpng License AND zlib License AND Apache License 2.0 AND Bzip2 License AND Eclipse Public License 1.0)"
+        },
+        "matchedFilePath": "/tomcat7-c5e7d45ed5948e0790284eea2199a3d1bf079c13/java/org/apache/catalina/core/DefaultInstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            25
+          ],
+          "sourceEndLines": [
+            39
+          ],
+          "matchedStartLines": [
+            133
+          ],
+          "matchedEndLines": [
+            155
+          ]
+        }
+      },
+      {
+        "projectName": "JBoss Web",
+        "releaseVersion": "7.0.17.Final",
+        "licenseDefinition": {
+          "name": "GNU Lesser General Public License v2.1 or later",
+          "spdxId": "LGPL-2.1-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Lesser General Public License v2.1 or later"
+        },
+        "matchedFilePath": "/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            21
+          ],
+          "matchedEndLines": [
+            48
+          ]
+        }
+      }
+    ],
+    "PERMISSIVE": [
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "TOMCAT_7_0_0_RC2",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/tomcat-723b0e55a78ca404ea3e37ad7497067c9d731a81/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            21
+          ],
+          "matchedEndLines": [
+            44
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "TOMCAT_7_0_0_RC1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/tomcat-090e26fc0a9d4f96f30d46757bf4a0bae5236788/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            21
+          ],
+          "matchedEndLines": [
+            44
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "7.0.0",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            21
+          ],
+          "matchedEndLines": [
+            44
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "7.0.1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/tomcat70-TOMCAT_7_0_1/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            21
+          ],
+          "matchedEndLines": [
+            44
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "7.0.2-beta",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/apache-tomcat-7.0.2-src/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            21
+          ],
+          "matchedEndLines": [
+            44
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "7.0.0-beta",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/apache-tomcat-7.0.0-src/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            21
+          ],
+          "matchedEndLines": [
+            44
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "7.0.21",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            40
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "7.0.7",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/tomcat70-TOMCAT_7_0_7/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            40
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "7.0.21",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/apache-tomcat-7.0.21-src/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            40
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "7.0.8",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/apache-tomcat-7.0.8-src/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            40
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "7.0.10",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/apache-tomcat-7.0.10-src/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            40
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "7.0.23",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            40
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "7.0.23",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/apache-tomcat-7.0.23-src/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            40
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "8.0.0-RC1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/tomcat-TOMCAT_8_0_0_RC1/java/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            44
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "7.0.47",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            44
+          ]
+        }
+      },
+      {
+        "projectName": "JBoss Web",
+        "releaseVersion": "3.0.0.alpha-1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            21
+          ],
+          "matchedEndLines": [
+            48
+          ]
+        }
+      },
+      {
+        "projectName": "Apache Tomcat",
+        "releaseVersion": "8.0.1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/org/apache/tomcat/InstanceManager.java",
+        "regions": {
+          "sourceStartLines": [
+            17
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            17
+          ],
+          "matchedEndLines": [
+            41
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "href": "https://testing.blackduck.synopsys.com/api/snippet-matching",
+    "links": [
+      {
+        "rel": "licenses-description",
+        "href": "https://www.synopsys.com/glossary/what-are-open-source-licenses.html"
+      }
+    ]
+  }
+}
