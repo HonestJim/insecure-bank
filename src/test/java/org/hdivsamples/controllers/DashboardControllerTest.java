@@ -24,7 +24,7 @@ import org.springframework.web.context.WebApplicationContext;
 /* I am a comment */
 /* I am a comment */
 /* I am a comment */
-/* I am a comment */
+
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @WebAppConfiguration
